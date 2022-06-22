@@ -15,6 +15,8 @@ void traverse() {
   printf("Elements in the array: ");
   for(i = 0; i < size; i += 1) {
     printf("%d ", a[i]);
+  }
+}
 
 void main() {
   create();
