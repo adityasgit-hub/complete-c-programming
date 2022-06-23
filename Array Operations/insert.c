@@ -13,7 +13,7 @@ void create() {
 
 void insert() {
   int pos, val;
-  printf("Enter the position: ");
+  printf("\nEnter the position: ");
   scanf("%d", &pos);
   printf("Enter the element: ");
   scanf("%d", &val);
